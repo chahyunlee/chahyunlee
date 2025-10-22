@@ -3,7 +3,7 @@
 
 🏫 부산대학교 정보컴퓨터공학부  
 🚀 APPTIVE 20기 FE 수료  
-💻 카카오테크캠퍼스 FE 트랙 3기  
+🏆 카카오테크캠퍼스 3기 FE 트랙 ing
 
 <hr style="border: none; border-top: 1px solid rgba(0,0,0,0.1); width: 60%;" />
 
