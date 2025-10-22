@@ -1,6 +1,4 @@
 <!-- 전체 배경 여백용 -->
-<div style="margin-top: 30px; margin-bottom: 30px;">
-
 ### 🎓 Education
 
 🏫 부산대학교 정보컴퓨터공학부  
