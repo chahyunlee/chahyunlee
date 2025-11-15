@@ -1,7 +1,8 @@
 <!-- 전체 배경 여백용 -->
 ### 🎓 Education
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎓 부산대학교 정보컴퓨터공학부
+&nbsp;&nbsp;&nbsp;&nbsp;🎓 부산대학교 정보컴퓨터공학부     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚀 [졸업과제] 공공데이터 기반 한국어 키워드 추출 및 대시보드 시각화 서비스, KoKeyBERT (2025.03 ~ 2025.09)
 
 &nbsp;&nbsp;&nbsp;&nbsp;👥 서비스 개발 동아리, APPTIVE 20기 FE (2024.02 ~ )  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚀 [APPTIVE 프로젝트] 양념장 소분 중개 플랫폼, 야금야금 (2024.08 ~ 2025.01)      
