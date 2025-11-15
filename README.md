@@ -3,11 +3,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;🎓 부산대학교 정보컴퓨터공학부
 
-&nbsp;&nbsp;&nbsp;&nbsp;👥 서비스 개발 동아리, APPTIVE 20기 FE (2024.02 ~ 2025.06)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚀 APPTIVE MAKERS FE (2025.10 ~ )
+&nbsp;&nbsp;&nbsp;&nbsp;👥 서비스 개발 동아리, APPTIVE 20기 FE (2024.02 ~ )  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚀 [APPTIVE 프로젝트] 양념장 소분 중개 플랫폼, 야금야금 (2024.08 ~ 2025.01)      
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚀 [APPTIVE 프로젝트] 대화로 계획을 완성하는 AI 통합 플래너, ALZALCAL (2025.02 ~ 2025.07)      
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚀 [APPTIVE 홈페이지 리뉴얼 프로젝트] APPTIVE MAKERS FE (2025.10 ~ )
 
 &nbsp;&nbsp;&nbsp;&nbsp;🏫 카카오테크캠퍼스 3기 FE 트랙 (2025.04 ~ 2025.11)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏆 카카오테크캠퍼스 최종 프로젝트 우수상
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏆 [카카오테크캠퍼스 최종 프로젝트 우수상] 대학생을 위한 팀 일정 관리 매니저, UniSchedule (2025.08 ~ 2025.11)
 <hr style="border: none; border-top: 1px solid rgba(0,0,0,0.1); width: 60%;" />
 
 ### 🛠️ Studying
