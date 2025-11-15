@@ -1,10 +1,13 @@
 <!-- 전체 배경 여백용 -->
 ### 🎓 Education
 
-🏫 부산대학교 정보컴퓨터공학부  
-🚀 APPTIVE 20기 FE  
-🏆 카카오테크캠퍼스 3기 FE 트랙
+🎓 부산대학교 정보컴퓨터공학부
 
+👥 서비스 개발 동아리, APPTIVE 20기 FE (2024.02 ~ 2025.06)  
+&nbsp;&nbsp;&nbsp;&nbsp;🚀 APPTIVE MAKERS FE (2025.10 ~ )
+
+🏫 카카오테크캠퍼스 3기 FE 트랙 (2025.04 ~ 2025.11)  
+&nbsp;&nbsp;&nbsp;&nbsp;🏆 카카오테크캠퍼스 최종 프로젝트 우수상
 <hr style="border: none; border-top: 1px solid rgba(0,0,0,0.1); width: 60%;" />
 
 ### 🛠️ Studying
