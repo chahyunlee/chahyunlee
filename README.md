@@ -11,6 +11,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;🏫 카카오테크캠퍼스 3기 FE 트랙 (2025.04 ~ 2025.11)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏆 [카카오테크캠퍼스 최종 프로젝트 우수상] 대학생을 위한 팀 일정 관리 매니저, UniSchedule (2025.08 ~ 2025.11)
+
+&nbsp;&nbsp;&nbsp;&nbsp;☁️ 구름톤 16기 FE (2025.12)
+
 <hr style="border: none; border-top: 1px solid rgba(0,0,0,0.1); width: 60%;" />
 
 ### 🛠️ Studying
