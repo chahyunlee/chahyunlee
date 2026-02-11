@@ -5,15 +5,15 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚀 [졸업과제] 공공데이터 기반 한국어 키워드 추출 및 대시보드 시각화 서비스, KoKeyBERT (2025.03 ~ 2025.09)
 
 &nbsp;&nbsp;&nbsp;&nbsp;👥 서비스 개발 동아리, APPTIVE 20기 FE (2024.02 ~ 2026.01)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚀 [APPTIVE 프로젝트] 양념장 소분 중개 플랫폼, 야금야금 (2024.08 ~ 2025.01)      
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚀 [APPTIVE 프로젝트] 대화로 계획을 완성하는 AI 통합 플래너, ALZALCAL (2025.02 ~ 2025.07)      
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚀 [프로젝트] 양념장 소분 중개 플랫폼, 야금야금 (2024.08 ~ 2025.01)      
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚀 [프로젝트] 대화로 계획을 완성하는 AI 통합 플래너, ALZALCAL (2025.02 ~ 2025.07)      
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚀 [APPTIVE 홈페이지 리뉴얼 프로젝트] APPTIVE MAKERS FE (2025.10 ~ )
 
 &nbsp;&nbsp;&nbsp;&nbsp;🏫 카카오테크캠퍼스 3기 FE 트랙 (2025.04 ~ 2025.11)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏆 [카카오테크캠퍼스 최종 프로젝트 우수상] 대학생을 위한 팀 일정 관리 매니저, UniSchedule (2025.08 ~ 2025.11)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏆 [최종 프로젝트 우수상] 대학생을 위한 팀 일정 관리 매니저, UniSchedule (2025.08 ~ 2025.11)
 
 &nbsp;&nbsp;&nbsp;&nbsp;☁️ 구름톤 16기 FE (2025.12)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚀 2030 제주 도민과 이주민을 이어주는 소모임 자동 매칭 플랫폼, 도르멍 (2025.12.02 ~ 2025.12.05)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚀 2030 제주 도민과 이주민을 이어주는 자동 소모임 매칭 플랫폼, 도르멍 (2025.12.02 ~ 2025.12.05)
 
 <hr style="border: none; border-top: 1px solid rgba(0,0,0,0.1); width: 60%;" />
 
@@ -36,4 +36,5 @@
 
 </div>
 
+<hr style="border: none; border-top: 1px solid rgba(0,0,0,0.1); width: 60%;" />
 
